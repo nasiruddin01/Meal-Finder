@@ -121,4 +121,5 @@ mealsEl.addEventListener('click', e => {
   }
 });
 
-// 10 minute 4no
+// fetch random meal in the initial render
+getRandomMeal()
